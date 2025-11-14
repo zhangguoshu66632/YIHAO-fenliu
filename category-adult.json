@@ -1,1 +1,13 @@
 
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "xhamsterlive.com",
+        "xvideos.com",
+        "pornhub.com"
+      ],
+      "outbound": "block"
+    }
+  ]
+}
